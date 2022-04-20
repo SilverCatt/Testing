@@ -1,7 +1,7 @@
 /*
- * Author: TB
- * Date: Today
- * Description: This program demonstrates the differences between an array of character and a string.
+ * Author: ImTheSilverOne
+ * Date: 4/20/2022
+ * Description: This program demonstrates the differences between an array of characters and a string of characters.
  */
 public class String_vs_Array 
 {
